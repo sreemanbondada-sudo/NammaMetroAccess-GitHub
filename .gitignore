@@ -1,0 +1,20 @@
+# QGIS temporary/backup files
+*.qgs~
+*.qgz~
+*.aux.xml
+
+# Raw OSM source data
+data/osm_bengaluru/
+
+# Redundant walking network source
+data/walking_network_complete.gpkg
+
+# Intermediate station population layers
+data/station_population_*.gpkg
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary outputs
+output/
