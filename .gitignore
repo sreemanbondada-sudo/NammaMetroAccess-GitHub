@@ -17,4 +17,5 @@ __pycache__/
 *.pyc
 
 # Temporary outputs
-output/
+output/desktop.ini 
+images/desktop.ini 
